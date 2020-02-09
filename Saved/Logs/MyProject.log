@@ -770,3 +770,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.09-21.53.44:419][  1]LogAssetRegistry: Asset discovery search completed in 6.6736 seconds
 [2020.02.09-21.53.44:424][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000028 seconds (updated 0 objects)
 [2020.02.09-21.58.35:047][228]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.09-22.00.45:227][855]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.09-22.00.45:312][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.02.09-22.00.45:492][855]LogSavePackage: Moving '../../../../MyProject/Saved/ThirdPersonExampleMapA9C9522C4974128ED65F3DABB14BA29A.tmp' to '../../../../MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.09-22.00.45:553][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="../../../../MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.02.09-22.00.45:732][855]LogSavePackage: Moving '../../../../MyProject/Saved/ThirdPersonExampleMap_BuiltData5BC6FFF448E1FB5946BD5DBA6C7731D9.tmp' to '../../../../MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.02.09-22.00.45:748][855]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.09-22.00.45:748][855]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.02.09-22.00.45:748][855]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.02.09-22.00.53:802][705]LogSlate: Window 'Source Control Login' being destroyed
+[2020.02.09-22.00.56:094][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.02.09-22.00.56:244][916]LogSavePackage: Moving '../../../../MyProject/Saved/ThirdPersonExampleMapF20E510A44AF84A544C5A5BF6F3B52B2.tmp' to '../../../../MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.09-22.00.56:336][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="../../../../MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.02.09-22.00.56:416][916]LogSavePackage: Moving '../../../../MyProject/Saved/ThirdPersonExampleMap_BuiltData2558A61A43013D6F02E407902701E926.tmp' to '../../../../MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.02.09-22.00.56:432][916]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.09-22.00.56:432][916]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.02.09-22.00.56:432][916]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
